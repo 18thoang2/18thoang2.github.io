@@ -1,0 +1,64 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family:"Segoe UI", fantasy;
+    font-size:25px;
+}
+li {
+    float: left;
+}
+body{
+    background-color:#ffffff;
+    background-image: url("images/bekgrund3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+li a {
+    display: block;
+    color: #2f2f2f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#c5c5c5;
+}
+
+h1{
+    font-family:"Segoe UI", fantasy;
+    text-align:center;
+    font-size:60px;
+    font-weight:bolder;
+    margin-bottom: 50px;
+}
+p{
+    font-family:"Segoe UI", fantasy;
+    font-size:35px;
+    text-align:center;
+    margin-bottom:250px;
+}
+
+ul.toolbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family:"Segoe UI", fantasy;
+    font-size:25px;
+}
+li a {
+    display: block;
+    color: #2f2f2f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color:#c5c5c5;
+}

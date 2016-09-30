@@ -1,38 +1,115 @@
 h1{
-    font-family:"Lucida Sans Unicode", fantasy;
+    font-family:"Segoe UI", fantasy;
     text-align:center;
+    font-size:60px;
+    font-weight:bolder;
+    margin-bottom: 6px;
+}
+h2{
+    font-family: "Segoe UI", fantasy;
+    text-align:center;
+    margin-bottom:auto;
     font-size:40px;
+    font-weight:bold;
 }
-p{
-    font-family:"Lucida Sans Unicode", fantasy;
-    font-size:25px;
+.desc{
+    font-family:"Segoe UI", fantasy;
+    font-size:20px;
     text-align:center;
-}
-img{
-    text-align:center;
+    margin-bottom:300px;
 }
 body{
-    background-color:#c9c9c9;
-    background-image: url("images/bekgrund2.jpg");
-    background-size: cover;
-    background-repeat: repeat-y;
+    background-color:#ffffff;
+    background-image: url("images/bekgrund3.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+ul.toolbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family:"Segoe UI", fantasy;
+    font-size:25px;
+}
+.hobbies{
+    margin:auto;
+    text-align: center;
+    color: #4f4f4f;
+    font-family: "Segoe UI", fantasy;
+    font-size:25px;
+}
+.cavcred{
+    text-align:center;
+    margin-top:auto;
+}
+.tbar{
+    float: left;
+}
+ul {
+    list-style-position: inside;
+}
+div{
+    text-align: center;
+}
+li a {
+    display: block;
+    color: #2f2f2f;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 
+li a:hover {
+    background-color:#c5c5c5;
+}
+.classes{
+    width:400px;
+}
+.songs{
+    width:400px;
+}
+.quote{
+    font-family:"Segoe UI";
+    font-size:45px;
+    text-align: center;
+}
+.lolol{
+    text-align: center;
+    color:white;
+    margin-bottom:30px;
+}
 table{
+    margin:50px;
     margin-left: auto;
     margin-right: auto;
-    text-align: left;
+    text-align: center;
     border-collapse: collapse;
 }
 tr{
     border: 1px solid #ffffff;
+    font-family:"Lucida Sans Unicode", fantasy;
     border-color:#000000;
     text-align: center;
-    background-color: #9fb6cd;
+    background-color: #ffffff;
+    font-size:18px;
 }
 th{
+    font-family:"Segoe UI", fantasy;
+    font-weight:bold;
+    font-size:20px;
     text-align: center;
     border-color:#000000;
     color: #ffffff;
-    background-color: #003366;
+    background-color: #ffffff;
+    font-size:21px;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+}
+tr:nth-child(even) {
+    background-color: #dddddd;
 }
