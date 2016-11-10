@@ -7,6 +7,11 @@ ul {
     font-family:"Segoe UI", fantasy;
     font-size:25px;
 }
+.scratch1title{
+    font-family:"Segoe UI", fantasy;
+    font-size:30px;
+    text-align: center;
+}
 ul.toolbar {
     list-style-type: none;
     margin: 0;
@@ -55,9 +60,12 @@ h1{
     color:white;
     margin-top:300px;
 }
+.galaga{
+    text-align: center;
+}
 body{
     background-color:#ffffff;
     background-image: url("images/bekgrund3b.png");
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
 }
