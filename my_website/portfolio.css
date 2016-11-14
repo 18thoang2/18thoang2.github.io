@@ -7,10 +7,16 @@ ul {
     font-family:"Segoe UI", fantasy;
     font-size:25px;
 }
-.scratch1title{
+.scratchtitle{
     font-family:"Segoe UI", fantasy;
-    font-size:30px;
+    font-size:50px;
     text-align: center;
+}
+h3{
+    font-family:"Segoe UI", fantasy;
+    font-size:35px;
+    text-align: center;
+    margin-bottom:5px;
 }
 ul.toolbar {
     list-style-type: none;
@@ -49,16 +55,40 @@ h1{
 }
 .desc{
     margin-top:30px;
-    margin-bottom:500px;
+    margin-bottom:10px;
     text-align: center;
     font-family: "Segoe UI", fantasy;
-    font-size:40px;
+    font-size:55px;
+}
+.desc2{
+    text-align:center;
+    margin-bottom: 500px;
+    margin-top:5px;
+    font-family: "Segoe UI", fantasy;
+    font-size:20px;
+    
+}
+.summarytitle{
+    text-align:center;
+    font-family: "Segoe UI", fantasy;
+    font-size:40;
+}
+.summary{
+    text-align:center;
+    font-family: "Segoe UI", fantasy;
+    font-size:25px;
 }
 .lolol{
     text-align: center;
     margin-bottom:30px;
     color:white;
-    margin-top:300px;
+    margin-top:30px;
+}
+.firstgame{
+    text-align: center;
+    margin-bottom:30px;
+    color:white;
+    margin-top:30px;
 }
 .galaga{
     text-align: center;
