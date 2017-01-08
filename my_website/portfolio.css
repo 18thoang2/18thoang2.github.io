@@ -62,7 +62,7 @@ h1{
 }
 .desc2{
     text-align:center;
-    margin-bottom: 500px;
+    margin-bottom: 100px;
     margin-top:5px;
     font-family: "Segoe UI", fantasy;
     font-size:20px;
@@ -71,7 +71,7 @@ h1{
 .summarytitle{
     text-align:center;
     font-family: "Segoe UI", fantasy;
-    font-size:40;
+    font-size:40px;
 }
 .summary{
     text-align:center;
@@ -93,9 +93,24 @@ h1{
 .galaga{
     text-align: center;
 }
+.intfictitle{
+    text-align:center;
+    font-family: "segoe UI", fantasy;
+    margin-top:40px;
+}
 body{
     background-color:#ffffff;
     background-image: url("images/bekgrund3b.png");
     background-size: contain;
     background-repeat: no-repeat;
+}
+.randyorton{
+    text-align:center;
+    margin-top:40px;
+}
+.storytitle{
+    font-family:"Segoe UI", fantasy;
+    font-size:35px;
+    text-align: center;
+    margin-bottom:50px;
 }
